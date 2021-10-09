@@ -22,12 +22,16 @@ p{
     font-size:30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:navy;
+    border: solid 60px maroon;
 
 
 }
 img{
     text-align:left;
     float: left;
+}
+header{
+
 }
     
 
@@ -43,5 +47,5 @@ footer{
 }
 body{
     
-    border: solid 96px maroon;
+    margin: 96px;
 }
