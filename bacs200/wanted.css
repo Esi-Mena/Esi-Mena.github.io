@@ -14,9 +14,8 @@ h2{
 }
 p{
     font-size:30px;
-    text-align:right;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:cadetblue
+    color:slateblue;
 
 
 }
@@ -29,7 +28,9 @@ header{
 }
 main{
     background-color: seagreen;
+    text-align: right;
 }
 footer{
     background-color: seagreen;
+    text-align: center;
 }
