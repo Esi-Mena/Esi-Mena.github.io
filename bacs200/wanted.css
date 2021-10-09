@@ -15,7 +15,6 @@ h2{
 p{
     font-size:30px;
     text-align:right;
-    background-color: seagreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:cadetblue
 
@@ -23,4 +22,5 @@ p{
 }
 img{
     text-align:left;
+    float: left;
 }
