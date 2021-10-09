@@ -39,6 +39,9 @@ main{
     text-align: center;
     padding: 50px;
 }
+main h2 p{
+    border: solid 25px maroon;
+}
 footer{
     background-color: seagreen;
     text-align: center;
