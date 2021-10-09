@@ -22,8 +22,7 @@ p{
     font-size:30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:navy;
-    border: solid 60px maroon;
-
+    
 
 }
 img{
@@ -44,6 +43,7 @@ footer{
     background-color: seagreen;
     text-align: center;
     padding:50px;
+    border:solid 25px maroon
 }
 body{
     
