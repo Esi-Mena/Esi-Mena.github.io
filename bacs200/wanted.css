@@ -24,3 +24,12 @@ img{
     text-align:left;
     float: left;
 }
+header{
+    background-color: seagreen;
+}
+main{
+    background-color: seagreen;
+}
+footer{
+    background-color: seagreen;
+}
