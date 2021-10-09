@@ -29,9 +29,8 @@ img{
     text-align:left;
     float: left;
 }
-header{
-    background-color: seagreen;
-}
+    
+
 main{
     background-color: seagreen;
     text-align: right;
@@ -43,6 +42,6 @@ footer{
     padding:50px;
 }
 body{
-    background-color: seagreen;
+    
     border: solid 96px maroon;
 }
