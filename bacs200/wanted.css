@@ -35,13 +35,14 @@ header{
 main{
     background-color: seagreen;
     text-align: right;
-    padding: 0%;
+    padding: 50px;
 }
 footer{
     background-color: seagreen;
     text-align: center;
-    padding:0%;
+    padding:50px;
 }
 body{
     background-color: seagreen;
+    border: solid 1px maroon;
 }
