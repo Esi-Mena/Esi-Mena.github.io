@@ -1,6 +1,19 @@
 h1{
     font-size:60px;
     text-align:center;
-    color:crimson;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color:darkred;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-size:40px;
+    text-align:right;
+    color:darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size:30px;
+    text-align:right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue
+
 }
