@@ -30,13 +30,13 @@ img{
     float: left;
 }
 header{
-
+text-align:center;
 }
     
 
 main{
     background-color: seagreen;
-    text-align: right;
+    text-align: center;
     padding: 50px;
 }
 footer{
