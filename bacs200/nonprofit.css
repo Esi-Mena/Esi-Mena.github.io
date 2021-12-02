@@ -1,0 +1,40 @@
+header{
+    border: solid maroon 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding:1ch;
+    margin: 1ch;
+    font-size: 15pt;
+}
+img{
+    
+    padding:1ch;
+}
+img.floatleft{
+float:left;
+}
+
+ main{
+    border: solid maroon  10px;
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    padding:1ch;
+    margin: 5ch;
+    font-size: 15pt;
+   
+}
+ img.floatright{
+ float:right;
+
+}
+footer{
+    border: solid  maroon 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    padding:1ch;
+    margin: 5ch;
+    font-size: 15pt;
+
+}
+
