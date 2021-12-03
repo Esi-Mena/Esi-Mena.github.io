@@ -1,0 +1,13 @@
+div h1{
+    color:black;
+     background-color: peru;
+}
+div p{
+    color:black;
+    background-color: rosybrown;
+}
+p{
+ text-align:center;
+
+ background-color: seagreen;
+}
