@@ -1,0 +1,12 @@
+ p.h3{
+    
+    text-align:center;
+    
+}
+ img.floatleft{
+
+    float:left;
+}
+body{
+    background-color:seashell;
+}
